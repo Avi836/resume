@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Avneesh Sharma"
+resume_title:                   "Data Science Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "tourist836@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       ""
+resume_contact_address:         "Lucknow, Uttar Pradesh"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Lucknow, Uttar Pradesh • 555-7334 • tourist836@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Amazon AWS Cloud Solutions Architect Associate | Intern Indian Space Research Organisation (ISRO) U R Rao Satellite Center (URSC) Bangalore | AWS Subject Matter Expert (SME) | AWS Certified Global Community Member | Researcher at SPIE (Society of Photographic Instrumentation Engineers) | Campus Ambassador Manipal University Jaipur | Head Of R&D ELECTRONICS SOCIETY Manipal University Jaipur | Intern Defense Research and Development Organisation (DRDO) Solid State Physics Laboratory Delhi | Researcher at Optica PHOTONIC CRYSTAL FIBRE | Google Cloud Computing Engineer | Graphics Designer | Electronics Sub-System Designer Mars Rover Manipal University Jaipur</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +45,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_github_url:            "https://github.com/Avi836"
+  resume_twitter_url:           "https://twitter.com/tourist836"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_facebook_url:          "https://www.facebook.com/avneesh.sharma.50951"
+  resume_linkedin_url:          "https://www.linkedin.com/in/avneesh-sharma-profile/"
+  resume_instagram_url:         "https://www.instagram.com/tourist836/"
+  # resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
